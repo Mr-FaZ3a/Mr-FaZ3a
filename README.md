@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mr-FaZ3a
 - 👀 I’m interested in AI, Game Dev
-- 🌱 I’m currently learning Unity / C#
+- 🌱 I’m currently learning C++ for Game Developement with Unreal Engine
 - 💞️ I’m looking to collaborate with group of programmers and developers who are very enthusiastic to take and give the knowlege
 - 📫 How to reach me on Discord Mr_FaZ3a#9483
 
