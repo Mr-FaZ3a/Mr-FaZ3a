@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, Game Dev
 - 🌱 I’m currently learning C++ for Game Developement with Unreal Engine
 - 💞️ I’m looking to collaborate with group of programmers and developers who are very enthusiastic to take and give the knowlege
-- 📫 How to reach me on Discord Mr_FaZ3a#9483
+- 📫 You can reach me on Discord mr_faz3a
 
 <!---
 Mr-FaZ3a/Mr-FaZ3a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
