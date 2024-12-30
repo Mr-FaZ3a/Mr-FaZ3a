@@ -4,10 +4,10 @@
 I'm a passionate developer with a keen interest in AI and Game Development. Currently, I'm diving deep into C++ for game development with Unreal Engine.
 
 ## 🔧 Technologies & Tools
-- **Languages:** C++, Python, JavaScript
-- **Game Development:** Unreal Engine, Unity
+- **Languages:** C++, Python, JavaScript 
+- **Game Development:** Unreal Engine, Unity\C#
 - **AI/ML:** TensorFlow, PyTorch
-- **Web Development:** HTML, CSS, React, Node.js
+- **Web Development:** HTML, CSS, JS, Flask
 
 ## 📈 GitHub Stats
 ![Mr-FaZ3a's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-FaZ3a&show_icons=true&theme=radical)
