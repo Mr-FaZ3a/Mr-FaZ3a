@@ -14,7 +14,7 @@ I'm a passionate developer with a keen interest in AI and Game Development. Curr
 
 ## 📫 How to Reach Me
 - **Discord:** mr_faz3a
-- **Email:** [mail me](mailto:  ktarimouadh@gmail.com)
+- **Email:** [here](mailto:ktarimouadh@gmail.com)
 
 ## 🌱 Currently Learning
 - Advanced C++ for Game Development
